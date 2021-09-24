@@ -36,6 +36,14 @@ python3 -m pip install -r requirements.txt
 
 # Usage
 Put apk file in the directory of firebase-scan.
-```python
-python3 firebase-scan.py example.apk
+```
+┌──(iamabear㉿kali)-[~/Downloads]
+└─$ mv ./example.apk ./firebase-scan
+
+┌──(iamabear㉿kali)-[~/Downloads/firebase-scan]
+└─$ ls
+README.md  apktool_2.5.0.jar  example.apk  firebase-scan.py  requirements.txt
+
+┌──(iamabear㉿kali)-[~/Downloads/firebase-scan]
+└─$ python3 firebase-scan.py example.apk
 ```
