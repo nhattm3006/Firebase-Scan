@@ -6,6 +6,7 @@ _____ _          _                    _____
 |  _|| | '__/ _ \ '_ \ / _` / __|/ _ \`--. \/ __/ _` | '_  \
 | |  | | | |  __/ |_) | (_| \__ \  __/\__/ / (_| (_| | | | |
 \_|  |_|_|  \___|_.__/ \__,_|___/\___\____/ \___\__,_|_| |_|
+
                  by: IAMABEAR of SunCSR team
 ```
 FirebaseScan is a pen-testing tool to automatically scanning and exploiting Firebase DB vulnerability in the android application.
