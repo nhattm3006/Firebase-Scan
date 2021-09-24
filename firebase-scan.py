@@ -15,7 +15,7 @@ banner = "\n"\
 "           | |  | | | |  __/ |_) | (_| \__ \  __/\__/ / (_| (_| | | | |\n"\
 "           \_|  |_|_|  \___|_.__/ \__,_|___/\___\____/ \___\__,_|_| |_|\n"\
 "\n"\
-"                                  by: IAMABEAR                         \n\n"
+"                            by: IAMABEAR of SunCSR team                \n\n"
 
 parser = argparse.ArgumentParser(prog='Firebase Scan', 
                                 usage='python firebase-scan.py [-h] [-y] [-d] apk-file', 
